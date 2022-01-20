@@ -23,6 +23,7 @@ O sistema é um CRUD ( Create / Read / Update / Delete ) e deverá atender a ess
 
 * Use o editor de código que preferir, incentivamos que pesquise a fundo na internet a melhor implementação e solução de problemas encontrados.
 
-Quando terminar, solicite um pull request. Em caso de dúvidas, envie e-mail para contato@igualedigital.com.br
+Quando terminar, solicite um pull request ou crie um zip e envie para o email a seguir. 
+Em caso de dúvidas, envie e-mail para contato@igualedigital.com.br
 
 **Boa sorte!**
