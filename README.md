@@ -16,7 +16,8 @@ O sistema é um CRUD ( Create / Read / Update / Delete ) e deverá atender a ess
 7. No front, utilize o framework que quiser , a lib js que quiser... Mas não esqueça da acessibilidade!
 8. Deve ser usado HTML 5.2 e CSS 3 - Você está livre para trabalhar com pré-processadores CSS (LeSS,SASS ou Stylus).
 9. Você tem total liberdade para criar um layout adequado neste teste.
-10. Não tenha pressa, se precisar pesquise bastante sobre o que e como irá implementar.
+10. Todo o código deve estar comentado.
+11. Não tenha pressa, se precisar pesquise bastante sobre o que e como irá implementar.
 
 ### ATENÇÃO
 
