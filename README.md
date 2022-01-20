@@ -22,6 +22,6 @@ O sistema é um CRUD ( Create / Read / Update / Delete ) e deverá atender a ess
 
 * Use o editor de código que preferir, incentivamos que pesquise a fundo na internet a melhor implementação e solução de problemas encontrados.
 
-Ao terminar o teste, solicite um pull request. Em caso de dúvidas, envie e-mail para web@iguale.com.br
+Quando terminar, solicite um pull request. Em caso de dúvidas, envie e-mail para contato@igualedigital.com.br
 
 **Boa sorte!**
